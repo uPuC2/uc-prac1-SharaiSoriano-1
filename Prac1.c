@@ -86,7 +86,5 @@ int main()
   a ^= 1;
 
     printf("\na = %X", a);
-
-
     return 0;
 }
